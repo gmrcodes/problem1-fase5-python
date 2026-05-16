@@ -22,7 +22,7 @@ Este repositorio está organizado de la siguiente manera para facilitar su revis
 
     /Codigo:
 
-        ejercicio_fase5.py: Archivo fuente de Python que contiene la implementación lógica completa, desde la matriz 
+        problema1_fase5.py: Archivo fuente de Python que contiene la implementación lógica completa, desde la matriz 
         de datos hasta la generación del informe final.
 
     /Documentacion:
