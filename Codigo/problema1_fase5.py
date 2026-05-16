@@ -69,7 +69,7 @@ def generar_informe(matriz_datos):
 
         clasificacion = evaluar_compromiso(duracion, clics)
 
-        print(f"{id_cliente:<15} | {clasificacion:<10}")
+        print(f"{id_cliente:<15} | {clasificacion:<15}")
 
     print("========================================")
 
